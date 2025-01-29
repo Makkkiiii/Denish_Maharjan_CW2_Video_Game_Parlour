@@ -1,4 +1,4 @@
---  ! THIS IS THE 1ST QUESTION OF THE TASK !
+--  ! 1ST QUESTION OF THE CW2 !
 
 --  ! DENISH MAHARJAN !
 --  ! Softwarica College of IT and E-Commerce  !
